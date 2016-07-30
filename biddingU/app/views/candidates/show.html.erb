@@ -1,0 +1,24 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Buyerid:</strong>
+  <%= @candidate.buyerId %>
+</p>
+
+<p>
+  <strong>Auctionid:</strong>
+  <%= @candidate.auctionId %>
+</p>
+
+<p>
+  <strong>Bidprice:</strong>
+  <%= @candidate.bidPrice %>
+</p>
+
+<p>
+  <strong>Bidtime:</strong>
+  <%= @candidate.bidTime %>
+</p>
+
+<%= link_to 'Edit', edit_candidate_path(@candidate) %> |
+<%= link_to 'Back', candidates_path %>

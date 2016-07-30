@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  sellerId: 1
+  name: MyString
+  initPrice: 1
+  state: 1
+
+two:
+  sellerId: 1
+  name: MyString
+  initPrice: 1
+  state: 1

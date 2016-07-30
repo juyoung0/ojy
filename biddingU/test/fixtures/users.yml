@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  studentId: 1
+  name: MyString
+  phone: MyString
+  password: MyString
+  level: 1
+
+two:
+  studentId: 1
+  name: MyString
+  phone: MyString
+  password: MyString
+  level: 1

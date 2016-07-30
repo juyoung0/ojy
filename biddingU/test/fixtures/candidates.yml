@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  buyerId: 1
+  auctionId: 1
+  bidPrice: 1
+  bidTime: 2016-07-30
+
+two:
+  buyerId: 1
+  auctionId: 1
+  bidPrice: 1
+  bidTime: 2016-07-30
